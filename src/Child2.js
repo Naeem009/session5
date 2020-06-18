@@ -6,7 +6,7 @@ const Child2 = () => {
 
     return (
         <div>
-            <h2>This is second Child using Counter Reducer</h2>
+            <h2>This is second Child using Counter </h2>
             <h3>
                 The value of reducer is: {state}
             </h3>
